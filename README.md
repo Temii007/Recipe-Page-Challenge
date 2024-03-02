@@ -1,2 +1,2 @@
 # Recipe-Page-Challenge
-I am looking to apply my "baby" html and CSS skills by participating in the Frontend Mentor Recipe page to test what i have learned so far.
+Initiating the recipe page challenge on frontend mentor to apply and test my HTML and CSS skills gained so far.
